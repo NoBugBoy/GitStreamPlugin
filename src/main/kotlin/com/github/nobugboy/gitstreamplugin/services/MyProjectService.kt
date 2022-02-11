@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.nobugboy.gitstreamplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nobugboy.gitstreamplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
